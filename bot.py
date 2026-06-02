@@ -18,7 +18,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 TELEGRAM_TOKEN = os.getenv("TOKEN") or "8912493308:AAHngO74lQrNpJ74h5UG_DctTHppzbg49nI"
 MISTRAL_URL = "https://api.mistral.ai/v1/chat/completions"
 MISTRAL_KEY = "snfCmZWKmLHAhFS0KH7T4sIHRhnfs2B4"
-CHANNEL_USERNAME = "@hakannnnnnnnnnbot"
+CHANNEL_USERNAME = "@atattv44vizyon"
 ADMIN_IDS = [8230461239, 6318435017]
 
 logging.basicConfig(level=logging.INFO)
